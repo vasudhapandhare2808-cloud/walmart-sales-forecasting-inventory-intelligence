@@ -29,3 +29,4 @@ __pycache__/
 data/raw/
 data/processed/walmart_sales_cleaned.csv
 data/processed/walmart_model_predictions.csv
+dashboard/.~*
